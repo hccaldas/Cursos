@@ -25,7 +25,7 @@ BOAS PRÁTICAS
 37. Curso do Sharepoint
 38. Curso do Outlook
 
-						PROGRAMAÇÃO
+						LINGUAGENS DE PROGRAMAÇÃO
 
 HTML, CSS, JS, C#, C++
 12. Crie um site simples usando HTML, CSS e JavaScript
@@ -42,14 +42,15 @@ PYTHON
 
 BANCO DE DADOS 
 20. Implementando Banco de Dados - SQL
-21. Modelagem de Dados
+21. Modelagem de Dados - MySQL Workbanch
 23. Administrando Banco de Dados
 
 SQL
-30. Curso Básico de SQL - HashTag Treinamentos
+30. Curso de SQL - HashTag Treinamentos
 
 POWER BI
 24. Introdução à Análise de Dados - Microsoft Power BI
+42. Fundamentos o Power BI
 
 	
 						NUVEM
@@ -77,7 +78,7 @@ AWS
 34. Documentoscopia - Elevate (Serasa Experian)
 35. LGPD - Elevate (Serasa Experian)
 
-42. 
+
 43. 
 44.
 45.
@@ -90,8 +91,10 @@ AWS
 • Web sites / Web Pages - Curso Livre 
 • Google Ads 
 • Facebook Business - Meta Ads 
-• Divulgações em Massa / Extração de Dados - WathsApp Business - Meta Ads 
+• Divulgações em Massa / Extração de Dados - WhathsApp Business - Meta Ads 
 • Projetos de identidade Visual para Empresas 
+• Logo/Banner/Folder/Cards
+
 - Agente de Portaria
 
 
