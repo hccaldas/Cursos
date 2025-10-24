@@ -100,7 +100,7 @@ AWS
 
 					HARD SKILLS
 Linguagens: SQL, python, C#, HTML
-Plataformas: Workbanch, Visual Studio Code, PyCharm, Jupyter Notebook, Anaconda
+Plataformas: Workbanch, Visual Studio Code, PyCharm, Jupyter Notebook, Anaconda, MobaXterm, OKD4, SuperPutty
 Nuvem: AWS, Azure, Oracle Cloud
 Analise de Dados: Power BI, MySQL, Excel
 Bibliotecas: Pandas, Matplotlib, Scikit-learn, yfinance, Seaborn, NumPy, Streamlit, Plotly
